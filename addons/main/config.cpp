@@ -29,7 +29,7 @@ class CfgMods {
         action = "https://github.com/IDI-Systems/acre2";
         hideName = 0;
         hidePicture = 0;
-        name = "ACRE2";
+        name = "ACRE2 - RP Version";
     };
 };
 
